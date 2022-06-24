@@ -1,5 +1,5 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/public_html/
-    - /Publish readme.html $DEPLOYPATH
-    - /Publish code_of_conduct $DEPLOYPATH
+    - export DEPLOYPATH=/home/public_html/
+    - /publish readme.html $DEPLOYPATH
+    - /publish code_of_conduct.html $DEPLOYPATH
