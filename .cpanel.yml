@@ -1,5 +1,5 @@
+---
 deployment:
   tasks:
-    - export DEPLOYPATH=/www/
-    - cp /publish/readme.html $DEPLOYPATH
-    - cp /publish/code_of_conduct.html $DEPLOYPATH
+    - export DEPLOYPATH=/home/public_html #Add /<sub_folder> if required
+    - /publish -r * $DEPLOYPATH
