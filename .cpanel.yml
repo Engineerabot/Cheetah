@@ -1,5 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/enginfv9/public_html
-    - /publish/cp -r * $DEPLOYPATH
+    - export DEPLOYPATH=/home/enginfv9/public_html
+    - /publish/cp readme.html $DEPLOYPATH
+    - /publish/cp code_of_conduct.html $DEPLOYPATH
