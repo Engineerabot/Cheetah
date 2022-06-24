@@ -2,4 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/enginfv9/public_html
+    - git submodule update --init --recursive
     - /bin/cp /home1/enginfv9/repositories/cheetah/publish/*.html $DEPLOYPATH
