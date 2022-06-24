@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/enginfv9/public_html #Add /<sub_folder> if required
+    - export DEPLOYPATH=/home/enginfv9/public_html #Add /<sub_folder> if required
     - /publish/cp -r * $DEPLOYPATH
