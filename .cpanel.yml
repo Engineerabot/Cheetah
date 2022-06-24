@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/enginfv9/public_html
-    - /bin/cp /home1/enginfv9/repositories/cheetah/publish/readme.html $DEPLOYPATH
+    - /bin/cp /home1/enginfv9/repositories/cheetah/publish/*.html $DEPLOYPATH
