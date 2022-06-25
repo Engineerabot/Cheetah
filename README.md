@@ -11,7 +11,7 @@ We want to create inspirational experiences. We want to work where engineering m
 
 Thank you for considering helping us develop Cheetah! We can use your help! Whether you are an expert artist, expert engineer, or a beginner, we could use your help!
 
-## Installation
+## Installation 
 
 To help, clone this project from Github [Cheetah](https://github.com/Engineerabot/Cheetah).  
   
