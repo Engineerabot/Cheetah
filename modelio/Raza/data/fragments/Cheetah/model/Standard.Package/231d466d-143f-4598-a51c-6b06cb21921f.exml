@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Use Case Diagram" version="4">
+  <OBJECT>
+    <ID name="Use Case Diagram" mc="Standard.Package" uid="231d466d-143f-4598-a51c-6b06cb21921f"/>
+    <PID name="Cheetah" mc="Standard.Package" uid="834a06ba-2085-4726-b0bd-e82c2441ad76"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Use Case Diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cheetah" mc="Standard.Package" uid="14c377bc-c22f-478e-a351-3091ce444849"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

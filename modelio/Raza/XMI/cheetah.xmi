@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:LocalProfile="http:///schemas/LocalProfile/_fRN-UKuyEeuI6Nj7f8KpKg/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xsi:schemaLocation="http:///schemas/LocalProfile/_fRN-UKuyEeuI6Nj7f8KpKg/0 LocalProfile.profile.xmi#_fSnFd6uyEeuI6Nj7f8KpKg">
+  <uml:Model xmi:id="_fRC_MKuyEeuI6Nj7f8KpKg" name="cheetah">
+    <eAnnotations xmi:id="_fRC_MauyEeuI6Nj7f8KpKg" source="Objing">
+      <contents xmi:type="uml:Property" xmi:id="_fRC_MquyEeuI6Nj7f8KpKg" name="exporterVersion">
+        <defaultValue xmi:type="uml:LiteralString" xmi:id="_fRC_M6uyEeuI6Nj7f8KpKg" value="3.0.0"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Package" xmi:id="_fRC_NKuyEeuI6Nj7f8KpKg" name="Features">
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_NauyEeuI6Nj7f8KpKg" name="Turn"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_NquyEeuI6Nj7f8KpKg" name="Stop Motion"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_N6uyEeuI6Nj7f8KpKg" name="Cheetah">
+        <ownedComment xmi:id="_fRC_OKuyEeuI6Nj7f8KpKg">
+          <body>&lt;Enter note text here></body>
+        </ownedComment>
+        <ownedAttribute xmi:id="_fRC_OauyEeuI6Nj7f8KpKg" name="turn" visibility="public" type="_fRC_NauyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_QKuyEeuI6Nj7f8KpKg"/>
+        <ownedAttribute xmi:id="_fRC_OquyEeuI6Nj7f8KpKg" name="stop Motion" visibility="public" type="_fRC_NquyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_QquyEeuI6Nj7f8KpKg"/>
+        <ownedAttribute xmi:id="_fRC_O6uyEeuI6Nj7f8KpKg" name="walk" visibility="public" type="_fRC_TquyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_RKuyEeuI6Nj7f8KpKg"/>
+        <ownedAttribute xmi:id="_fRC_PKuyEeuI6Nj7f8KpKg" name="resemble Adolescent Cheetah" visibility="public" type="_fRC_T6uyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_RquyEeuI6Nj7f8KpKg"/>
+        <ownedAttribute xmi:id="_fRC_PauyEeuI6Nj7f8KpKg" name="flexible" visibility="public" type="_fRC_UauyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_SKuyEeuI6Nj7f8KpKg"/>
+        <ownedAttribute xmi:id="_fRC_PquyEeuI6Nj7f8KpKg" name="navigation" visibility="public" type="_fRC_UquyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_SquyEeuI6Nj7f8KpKg"/>
+        <ownedAttribute xmi:id="_fRC_P6uyEeuI6Nj7f8KpKg" name="eyes Alive" visibility="public" type="_fRC_UKuyEeuI6Nj7f8KpKg" isUnique="false" aggregation="composite" association="_fRC_TKuyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_QKuyEeuI6Nj7f8KpKg" memberEnd="_fRC_OauyEeuI6Nj7f8KpKg _fRC_QauyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_QauyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_QKuyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_QquyEeuI6Nj7f8KpKg" memberEnd="_fRC_OquyEeuI6Nj7f8KpKg _fRC_Q6uyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_Q6uyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_QquyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_RKuyEeuI6Nj7f8KpKg" memberEnd="_fRC_O6uyEeuI6Nj7f8KpKg _fRC_RauyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_RauyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_RKuyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_RquyEeuI6Nj7f8KpKg" memberEnd="_fRC_PKuyEeuI6Nj7f8KpKg _fRC_R6uyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_R6uyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_RquyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_SKuyEeuI6Nj7f8KpKg" memberEnd="_fRC_PauyEeuI6Nj7f8KpKg _fRC_SauyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_SauyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_SKuyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_SquyEeuI6Nj7f8KpKg" memberEnd="_fRC_PquyEeuI6Nj7f8KpKg _fRC_S6uyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_S6uyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_SquyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_fRC_TKuyEeuI6Nj7f8KpKg" memberEnd="_fRC_P6uyEeuI6Nj7f8KpKg _fRC_TauyEeuI6Nj7f8KpKg">
+        <ownedEnd xmi:id="_fRC_TauyEeuI6Nj7f8KpKg" visibility="public" type="_fRC_N6uyEeuI6Nj7f8KpKg" isUnique="false" association="_fRC_TKuyEeuI6Nj7f8KpKg"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_TquyEeuI6Nj7f8KpKg" name="Walk"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_T6uyEeuI6Nj7f8KpKg" name="Resemble Adolescent Cheetah"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_UKuyEeuI6Nj7f8KpKg" name="Eyes Alive"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_UauyEeuI6Nj7f8KpKg" name="Flexible"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_UquyEeuI6Nj7f8KpKg" name="Navigation"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_fRC_U6uyEeuI6Nj7f8KpKg" name="Types">
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_VKuyEeuI6Nj7f8KpKg" name="Feature">
+        <ownedComment xmi:id="_fRC_VauyEeuI6Nj7f8KpKg">
+          <body>yo</body>
+        </ownedComment>
+        <ownedAttribute xmi:id="_fRC_VquyEeuI6Nj7f8KpKg" name="Priority" visibility="public" isUnique="false">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml#EDouble"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_fRC_V6uyEeuI6Nj7f8KpKg" name="Req" visibility="public" isUnique="false">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_fRC_WKuyEeuI6Nj7f8KpKg" name="ID" visibility="public" isUnique="false">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_fRC_WauyEeuI6Nj7f8KpKg" name="User Narrative">
+        <ownedAttribute xmi:id="_fRC_WquyEeuI6Nj7f8KpKg" name="ID" visibility="public" isUnique="false">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_fRC_W6uyEeuI6Nj7f8KpKg" name="Doc" visibility="public" isUnique="false">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_fRC_XKuyEeuI6Nj7f8KpKg" name="Priority" visibility="public" isUnique="false">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+      </packagedElement>
+    </packagedElement>
+    <profileApplication xmi:id="_fVeMMKuyEeuI6Nj7f8KpKg">
+      <eAnnotations xmi:id="_fVeMMauyEeuI6Nj7f8KpKg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="LocalProfile.profile.xmi#_fSnFd6uyEeuI6Nj7f8KpKg"/>
+      </eAnnotations>
+      <appliedProfile href="LocalProfile.profile.xmi#_fSnFcKuyEeuI6Nj7f8KpKg"/>
+    </profileApplication>
+    <profileApplication xmi:id="_fVs1sKuyEeuI6Nj7f8KpKg">
+      <eAnnotations xmi:id="_fVs1sauyEeuI6Nj7f8KpKg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="sysml.profile.xmi#_fUZ1U6uyEeuI6Nj7f8KpKg"/>
+      </eAnnotations>
+      <appliedProfile href="sysml.profile.xmi#_fUZ1TKuyEeuI6Nj7f8KpKg"/>
+    </profileApplication>
+  </uml:Model>
+  <LocalProfile:Feature xmi:id="_fVs1squyEeuI6Nj7f8KpKg" base_Class="_fRC_NauyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:Feature xmi:id="_fVs1s6uyEeuI6Nj7f8KpKg" base_Class="_fRC_NquyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:UserNarrative xmi:id="_fVs1tKuyEeuI6Nj7f8KpKg" base_Class="_fRC_N6uyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:Feature xmi:id="_fVs1tauyEeuI6Nj7f8KpKg" base_Class="_fRC_TquyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:Feature xmi:id="_fVs1tquyEeuI6Nj7f8KpKg" base_Class="_fRC_T6uyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:Feature xmi:id="_fVs1t6uyEeuI6Nj7f8KpKg" base_Class="_fRC_UKuyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:Feature xmi:id="_fVs1uKuyEeuI6Nj7f8KpKg" base_Class="_fRC_UauyEeuI6Nj7f8KpKg"/>
+  <LocalProfile:Feature xmi:id="_fVs1uauyEeuI6Nj7f8KpKg" base_Class="_fRC_UquyEeuI6Nj7f8KpKg"/>
+</xmi:XMI>

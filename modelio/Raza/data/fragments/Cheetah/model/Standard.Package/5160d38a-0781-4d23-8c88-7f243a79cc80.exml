@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Activity Diagram" version="4">
+  <OBJECT>
+    <ID name="Activity Diagram" mc="Standard.Package" uid="5160d38a-0781-4d23-8c88-7f243a79cc80"/>
+    <PID name="Cheetah" mc="Standard.Package" uid="834a06ba-2085-4726-b0bd-e82c2441ad76"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Activity Diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Admire Cheetah" mc="Standard.Activity" uid="6d494345-e297-4794-b4ed-4fa67eed297d"/>
+        <COMPID name="Torso Executes Walking Motion" mc="Standard.Activity" uid="f30da002-9cc2-49f0-bc00-396f0dcf273c"/>
+        <COMPID name="Hind Legs Execute Walking Motion" mc="Standard.Activity" uid="9a97e403-fe1e-4b05-bf42-efccfd5fc88b"/>
+        <COMPID name="Forelegs Execute Walking Motion" mc="Standard.Activity" uid="11dafbf8-23df-45c7-9c90-92eef34227cb"/>
+        <COMPID name="Torso Executes Balancing" mc="Standard.Activity" uid="00998085-31a7-45d6-b9ed-9b98d13e6f59"/>
+        <COMPID name="Hind Legs Execute Balancing" mc="Standard.Activity" uid="6e3ccec1-bedb-412d-a486-d9112605ce4b"/>
+        <COMPID name="Forelegs Execute Balancing" mc="Standard.Activity" uid="d1b4d66e-6ab9-4ce0-8169-73583332f739"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

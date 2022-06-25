@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cheetah" version="4">
+  <OBJECT>
+    <ID name="Cheetah" mc="Standard.Package" uid="834a06ba-2085-4726-b0bd-e82c2441ad76"/>
+    <PID name="Cheetah" mc="Standard.Project" uid="faa45a72-cd5f-40be-a343-d2acb53e2832"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Cheetah]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Actors" mc="Standard.Package" uid="90b9927a-66eb-443f-8f98-0aab0301288e"/>
+        <COMPID name="Types" mc="Standard.Package" uid="ecd5a0c8-07e8-46fb-9148-5a901b2b19e9"/>
+        <COMPID name="Activity Diagram" mc="Standard.Package" uid="5160d38a-0781-4d23-8c88-7f243a79cc80"/>
+        <COMPID name="Use Case Diagram" mc="Standard.Package" uid="231d466d-143f-4598-a51c-6b06cb21921f"/>
+        <COMPID name="Elements" mc="Standard.Package" uid="0d704532-259c-4d6c-b0a3-6abd26802794"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

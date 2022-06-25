@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Machine Screw 1" version="4">
+  <OBJECT>
+    <ID name="Machine Screw 1" mc="Standard.Class" uid="f23ab9b6-4301-44ce-8fa1-5218eda88c19"/>
+    <PID name="4 Part" mc="Standard.Package" uid="eb2d6d48-c3b2-428c-9290-880ebd184d9f"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Machine Screw 1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="InternalStructure">
+        <OBJECT>
+          <ID name="1/4 - 20" mc="Standard.BindableInstance" uid="47e2b710-02b5-415f-bd64-b5c11bd44fc9"/>
+          <ATTRIBUTES>
+            <ATT name="IsConstant">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Value"><![CDATA[1/4-20]]></ATT>
+            <ATT name="Name"><![CDATA[1/4 - 20]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Base">
+              <ID name="Thread Size" mc="Standard.Class" uid="8268305d-3a71-4f14-adc5-9313875decf0"/>
+            </LINK>
+            <LINK relation="Extension">
+              <FOREIGNID name="ParticipantProperty_BindableInstance" mc="Infrastructure.Stereotype" uid="be4f9250-fe30-11df-a577-0027103f347c"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="1 1/2" mc="Standard.BindableInstance" uid="3e952f52-2960-4644-8600-0f1b59b6cddb"/>
+          <ATTRIBUTES>
+            <ATT name="IsConstant">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Value"><![CDATA[1 1/2]]></ATT>
+            <ATT name="Name"><![CDATA[1 1/2]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Base">
+              <ID name="length" mc="Standard.Class" uid="cd8d4743-f621-4909-af4f-8f4a6402be24"/>
+            </LINK>
+            <LINK relation="Extension">
+              <FOREIGNID name="ParticipantProperty_BindableInstance" mc="Infrastructure.Stereotype" uid="be4f9250-fe30-11df-a577-0027103f347c"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="Block" mc="Infrastructure.Stereotype" uid="00bc42a4-0000-19c9-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

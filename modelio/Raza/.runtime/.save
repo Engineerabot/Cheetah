@@ -1,0 +1,24 @@
+#Sat Jun 25 08:20:32 MDT 2022
+org.modelio.app.diagram.editor.OpenedDiagrams5='Foreleg Knee Joint Block diagram' {728352f9-a9b8-4eff-a332-3c870f6c4c4f} Standard.StaticDiagram
+org.modelio.app.model.search.ui.SearchHistory1=allocate
+org.modelio.app.diagram.editor.OpenedDiagrams12='Torso-Hind Leg Joint Block diagram' {9aff156a-bbe2-40c3-8cb4-3a70dbff9733} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams4='Torso Mechanics Block diagram' {d44583a7-538f-4a7a-a6b1-94d83f752f20} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams11='Torso-Foreleg Joint Block diagram' {bf949f27-0494-4f18-a15c-e9be7431559a} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='Torso Executes Walking Motion Activity diagram' {906064c9-36df-4c0c-9eef-ea9b326e81b5} Standard.ActivityDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams10='Hind Leg Mechanics Block diagram' {57ccc2ed-ea49-4243-afb6-124f6d819190} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='Cheetah Mechanical Block diagram' {e57052cf-ff66-40ba-ad81-43a486da9892} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='Use Case diagram' {b05f7709-ded7-4361-9136-c755b1cfb8b4} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='Specification Tree' {d2ba634d-3feb-4cba-84f6-255184c38b7a} Standard.StaticDiagram
+org.modelio.app.module.propertytab.SysMLArchitect\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/SysMLArchitect_3.10.00/SysMLArchitect_3.10.00.jmdac\ runtime\ module_SysMLPropertyPage.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.SysMLArchitect\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/SysMLArchitect_3.10.00/SysMLArchitect_3.10.00.jmdac\ runtime\ module_SysMLPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.PersistentProfile\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/PersistentProfile_3.10.00/PersistentProfile_3.10.00.jmdac\ runtime\ module_PersistentPropertyPage.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.module.propertytab.PersistentProfile\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/PersistentProfile_3.10.00/PersistentProfile_3.10.00.jmdac\ runtime\ module_PersistentPropertyPage.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.module.propertytab.SysMLArchitect\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/SysMLArchitect_3.10.00/SysMLArchitect_3.10.00.jmdac\ runtime\ module_SysMLPropertyPage.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.PersistentProfile\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/PersistentProfile_3.10.00/PersistentProfile_3.10.00.jmdac\ runtime\ module_PersistentPropertyPage.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.SysMLArchitect\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/SysMLArchitect_3.10.00/SysMLArchitect_3.10.00.jmdac\ runtime\ module_SysMLPropertyPage.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.app.diagram.editor.OpenedDiagrams9='Head Mechanics Block diagram' {b9b94ffa-dcbf-4192-a3fc-782ed880ad89} Standard.StaticDiagram
+org.modelio.app.module.propertytab.PersistentProfile\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/PersistentProfile_3.10.00/PersistentProfile_3.10.00.jmdac\ runtime\ module_PersistentPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams8='Model Activity diagram' {386f8b4c-45fa-4561-a20d-1b56b9031fc7} Standard.ActivityDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams7='Foreleg Mechanics Block Diagram' {f5f2f6fe-5992-4e9d-ad79-f6c472eaec68} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='Tail Mechanics Block diagram' {8c7d3537-0c15-43f4-8c90-486dbb0517fb} Standard.StaticDiagram
+org.modelio.app.model.search.ui.SearchHistory2=composition

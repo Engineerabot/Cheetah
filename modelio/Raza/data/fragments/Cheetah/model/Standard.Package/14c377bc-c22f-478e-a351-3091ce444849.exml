@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cheetah" version="4">
+  <OBJECT>
+    <ID name="Cheetah" mc="Standard.Package" uid="14c377bc-c22f-478e-a351-3091ce444849"/>
+    <PID name="Use Case Diagram" mc="Standard.Package" uid="231d466d-143f-4598-a51c-6b06cb21921f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Cheetah]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Admire Head" mc="Standard.UseCase" uid="a6d1510d-9875-4036-88bd-e7053b262bc6"/>
+        <COMPID name="Admire Torso" mc="Standard.UseCase" uid="ff8ddcfe-07f7-43b2-927c-79e7fed34d36"/>
+        <COMPID name="Admire Tail" mc="Standard.UseCase" uid="bf4026b2-d79f-4041-92bd-71a3e2141ae6"/>
+        <COMPID name="Admire Legs" mc="Standard.UseCase" uid="fd507af4-c4d5-4bc4-b2e0-21d957e48f4a"/>
+        <COMPID name="Admire Eyes" mc="Standard.UseCase" uid="6a7d60db-b652-48fe-bf1f-f920b11ff2df"/>
+        <COMPID name="Admire Walking" mc="Standard.UseCase" uid="8008e48c-e974-46ba-9930-6235a545538a"/>
+        <COMPID name="Admire Flexibility" mc="Standard.UseCase" uid="65e23682-7359-4079-87ad-507e87dab8e3"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Use Case diagram" mc="Standard.UseCaseDiagram" uid="b05f7709-ded7-4361-9136-c755b1cfb8b4"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

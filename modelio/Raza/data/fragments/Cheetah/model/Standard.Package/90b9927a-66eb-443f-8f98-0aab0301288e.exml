@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Actors" version="4">
+  <OBJECT>
+    <ID name="Actors" mc="Standard.Package" uid="90b9927a-66eb-443f-8f98-0aab0301288e"/>
+    <PID name="Cheetah" mc="Standard.Package" uid="834a06ba-2085-4726-b0bd-e82c2441ad76"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Actors]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Environment" mc="Standard.Actor" uid="30dba00e-3a85-4fca-bf94-ab0ee558762f"/>
+        <COMPID name="Chris" mc="Standard.Actor" uid="822d3385-7194-4416-8c05-32f5fa415054"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="3 Components" version="4">
+  <OBJECT>
+    <ID name="3 Components" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
+    <PID name="Elements" mc="Standard.Package" uid="0d704532-259c-4d6c-b0a3-6abd26802794"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[3 Components]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="9271K124 Torsion Spring" mc="Standard.Class" uid="af64d012-6c87-43bd-847e-215a9a693dd6"/>
+        <COMPID name="Angle Joint 1" mc="Standard.Class" uid="f553d1bc-1ff1-4d56-80b0-c9ec6b4660ba"/>
+        <COMPID name="Angle Joint 2" mc="Standard.Class" uid="df3b865e-3d3d-47e0-99f4-10b09bdd1fcd"/>
+        <COMPID name="Angle Joint 3" mc="Standard.Class" uid="6f2dec03-c195-48ac-93b8-d0010795062d"/>
+        <COMPID name="Femur" mc="Standard.Class" uid="2361e71d-8ae6-402d-9976-1d33aa9b0b6e"/>
+        <COMPID name="Hind Leg Hip Inner" mc="Standard.Class" uid="69a97d0e-aba5-4781-b388-f7911c01f364"/>
+        <COMPID name="Hind Leg Joint Mount" mc="Standard.Class" uid="0b91b903-3d35-4c19-b618-c00fdf2404b3"/>
+        <COMPID name="Humerus" mc="Standard.Class" uid="e64819a0-72cb-4ec2-8686-0fd594b3badd"/>
+        <COMPID name="Inner Knee Joint" mc="Standard.Class" uid="44021cf9-2c58-44d7-90bc-0296098a503b"/>
+        <COMPID name="Knee Joint" mc="Standard.Class" uid="66904c8a-2c4f-4fda-9f51-cedf308da89f"/>
+        <COMPID name="Neck" mc="Standard.Class" uid="4f44bfe6-f759-4611-bf19-193647ac4d39"/>
+        <COMPID name="Outer Knee Joint" mc="Standard.Class" uid="82b0a24d-1e56-4756-94ed-d21365d92ab9"/>
+        <COMPID name="Pelvis" mc="Standard.Class" uid="cb471207-982d-4ab2-aab7-65d67f869121"/>
+        <COMPID name="Radius" mc="Standard.Class" uid="1490c56f-6798-4216-8294-8b39eebc1837"/>
+        <COMPID name="Rib" mc="Standard.Class" uid="76bdc255-bd0f-4189-ae73-bc9e15387e25"/>
+        <COMPID name="Rotational Joint Rubber Pad" mc="Standard.Class" uid="a0606794-d567-435c-831b-a7445e8df264"/>
+        <COMPID name="Scapula" mc="Standard.Class" uid="aaf13591-9afd-4247-ab58-f17336edd3aa"/>
+        <COMPID name="Shoulder" mc="Standard.Class" uid="cd0b3763-a792-40b6-9d93-7bd8e8503f39"/>
+        <COMPID name="Skull" mc="Standard.Class" uid="8d8cb4ea-97ed-4ef3-b6eb-92716cb21d55"/>
+        <COMPID name="Spine" mc="Standard.Class" uid="2a47cd62-789f-4489-bb68-6c9b42dd6eb1"/>
+        <COMPID name="Sternum" mc="Standard.Class" uid="accd12c2-f8f2-4432-b7b7-98b26498ffca"/>
+        <COMPID name="Tail" mc="Standard.Class" uid="f6fc2760-b91e-496d-bac6-c58fe4dbc757"/>
+        <COMPID name="Tibia" mc="Standard.Class" uid="79e78099-76d2-4286-8139-9e42e7835c33"/>
+        <COMPID name="Torso-Foreleg Joint" mc="Standard.Class" uid="ab19b967-7fe4-4058-a6bf-3beb6049910d"/>
+        <COMPID name="Torso-Hind Leg Joint" mc="Standard.Class" uid="1f8dbfe1-673e-4cff-8c60-f9a751970f5e"/>
+        <COMPID name="Torso-Neck Joint" mc="Standard.Class" uid="b41832aa-b8a1-4c6b-b6ec-fe18fc516205"/>
+        <COMPID name="Torso-Tail Joint" mc="Standard.Class" uid="3e6838b7-1520-4324-9e6d-60700f1513a0"/>
+        <COMPID name="Angle  Joint Rubber Pad" mc="Standard.Class" uid="5e309ec6-365a-423c-95b6-6349000e096d"/>
+        <COMPID name="Shoulder-Humerus Joint" mc="Standard.Class" uid="a20b4025-d7f8-4a51-9f15-d6cc54d2ac01"/>
+        <COMPID name="Torso-Rotary Joint" mc="Standard.Class" uid="088f448e-2b51-4ab5-bba4-fd622d47d45a"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="a47f21f9-5995-48ef-95f3-4542f7dbd4ef"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

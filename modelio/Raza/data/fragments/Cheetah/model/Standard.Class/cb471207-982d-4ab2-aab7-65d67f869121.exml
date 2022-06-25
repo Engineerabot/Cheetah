@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Pelvis" version="4">
+  <OBJECT>
+    <ID name="Pelvis" mc="Standard.Class" uid="cb471207-982d-4ab2-aab7-65d67f869121"/>
+    <PID name="3 Components" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Pelvis]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="InternalStructure">
+        <OBJECT>
+          <ID name="Length" mc="Standard.BindableInstance" uid="84a0fe14-077e-4d6a-862e-a77cf44158cc"/>
+          <ATTRIBUTES>
+            <ATT name="IsConstant">false</ATT>
+            <ATT name="MultiplicityMin"><![CDATA[1]]></ATT>
+            <ATT name="MultiplicityMax"><![CDATA[1]]></ATT>
+            <ATT name="Value"><![CDATA[4.875]]></ATT>
+            <ATT name="Name"><![CDATA[Length]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Base">
+              <FOREIGNID name="double" mc="Standard.DataType" uid="00000004-0000-0010-0000-000000000000"/>
+            </LINK>
+            <LINK relation="Extension">
+              <FOREIGNID name="ParticipantProperty_BindableInstance" mc="Infrastructure.Stereotype" uid="be4f9250-fe30-11df-a577-0027103f347c"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Torso-Rotary Joint" mc="Standard.Class" uid="183a8f85-3c52-474e-942a-76ad7d87c720"/>
+        <COMPID name="Shoulder-Humerus Joint" mc="Standard.Class" uid="21be058e-05e8-4e98-922b-62e978e50f05"/>
+        <COMPID name="Torso-Tail Joint" mc="Standard.Class" uid="c59f812e-6737-45c9-8a8a-02aa84090acd"/>
+        <COMPID name="Torso-Neck Joint" mc="Standard.Class" uid="e7dac8b0-d1ed-443c-858e-5d44551af6cb"/>
+        <COMPID name="Torso-Hind Leg Joint" mc="Standard.Class" uid="2e000bad-d21c-4ab1-b203-0ce4904e0875"/>
+        <COMPID name="Torso-Foreleg Joint" mc="Standard.Class" uid="7c7e71c3-3e33-4093-8208-52c4a78f2ab8"/>
+        <COMPID name="Tibia" mc="Standard.Class" uid="f417d457-79eb-4391-a1fc-fae2ef5f3d42"/>
+        <COMPID name="Tail" mc="Standard.Class" uid="dcc4f838-c7e6-4f4a-a6cc-97cbb67f877c"/>
+        <COMPID name="Sternum" mc="Standard.Class" uid="2e33304e-bb14-447d-87fe-c8c76a407169"/>
+        <COMPID name="Spine" mc="Standard.Class" uid="fa912450-bfa5-4a4b-a814-4b7f22e52f28"/>
+        <COMPID name="Skull" mc="Standard.Class" uid="07422bc7-6aae-45b1-a2a0-0a7896cf1641"/>
+        <COMPID name="Shoulder" mc="Standard.Class" uid="ec2b7032-4f78-42ef-90b5-d43ad7d51377"/>
+        <COMPID name="Scapula" mc="Standard.Class" uid="6477f868-afc1-4eb5-8229-bb9313bdf350"/>
+        <COMPID name="Rotational Joint Rubber Pad" mc="Standard.Class" uid="5b930ba0-11d2-476c-8269-c131ab7efea3"/>
+        <COMPID name="Rib" mc="Standard.Class" uid="265f62ea-8d75-44e7-af5d-59a799566684"/>
+        <COMPID name="Radius" mc="Standard.Class" uid="346f4272-7cef-4aea-a1d2-99df46af6464"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="Block" mc="Infrastructure.Stereotype" uid="00bc42a4-0000-19c9-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

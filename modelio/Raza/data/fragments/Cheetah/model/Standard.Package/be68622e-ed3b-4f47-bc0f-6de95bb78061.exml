@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="2 Subsystems" version="4">
+  <OBJECT>
+    <ID name="2 Subsystems" mc="Standard.Package" uid="be68622e-ed3b-4f47-bc0f-6de95bb78061"/>
+    <PID name="Elements" mc="Standard.Package" uid="0d704532-259c-4d6c-b0a3-6abd26802794"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[2 Subsystems]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Eyes" mc="Standard.Class" uid="8ef772f8-e324-4b3c-9815-fc7e58346cf6"/>
+        <COMPID name="Foreleg Mechanics" mc="Standard.Class" uid="b95e258b-3547-45d2-8300-b7f590ecb4fd"/>
+        <COMPID name="Head Mechanics" mc="Standard.Class" uid="1d9af275-bcf6-4acd-ba7a-4e9d5d563f85"/>
+        <COMPID name="Hind Leg Mechanics" mc="Standard.Class" uid="6136df40-4999-436f-89ff-7f74a8abc7e7"/>
+        <COMPID name="Muscles" mc="Standard.Class" uid="0b4b000c-ebc6-4ce5-9fc0-40f3e349432b"/>
+        <COMPID name="Skin" mc="Standard.Class" uid="091563a9-95de-4687-96d6-9c1f138b00db"/>
+        <COMPID name="Tail Mechanics" mc="Standard.Class" uid="19860b07-211c-4441-a39d-3da4fbf5d079"/>
+        <COMPID name="Torso Mechanics" mc="Standard.Class" uid="2786c845-461c-4199-a13a-4b2383131fce"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

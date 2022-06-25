@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="1 System" version="4">
+  <OBJECT>
+    <ID name="1 System" mc="Standard.Package" uid="2863ed41-09b4-4ff3-ba38-730df4a3d949"/>
+    <PID name="Elements" mc="Standard.Package" uid="0d704532-259c-4d6c-b0a3-6abd26802794"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[1 System]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cheetah" mc="Standard.Class" uid="6f043a0a-7abb-4ce4-926d-6f7aa2ba9933"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Cheetah Mechanical Block diagram" mc="Standard.StaticDiagram" uid="e57052cf-ff66-40ba-ad81-43a486da9892"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

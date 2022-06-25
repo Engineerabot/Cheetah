@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Elements" version="4">
+  <OBJECT>
+    <ID name="Elements" mc="Standard.Package" uid="0d704532-259c-4d6c-b0a3-6abd26802794"/>
+    <PID name="Cheetah" mc="Standard.Package" uid="834a06ba-2085-4726-b0bd-e82c2441ad76"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Elements]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="1 System" mc="Standard.Package" uid="2863ed41-09b4-4ff3-ba38-730df4a3d949"/>
+        <COMPID name="2 Subsystems" mc="Standard.Package" uid="be68622e-ed3b-4f47-bc0f-6de95bb78061"/>
+        <COMPID name="3 Components" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
+        <COMPID name="4 Part" mc="Standard.Package" uid="eb2d6d48-c3b2-428c-9290-880ebd184d9f"/>
+        <COMPID name="Chris' Experience" mc="Standard.Class" uid="77d19819-181d-4642-9cc0-aea06d6eebb7"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Specification Tree" mc="Standard.StaticDiagram" uid="d2ba634d-3feb-4cba-84f6-255184c38b7a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
