@@ -1,6 +1,6 @@
 # README
 
-Cheetah is an open source hardware and software engineering project. We're going to make an extremely lifelike robot.
+Introducing Raza is an open source hardware and software engineering project.
 
 
 ## Why is this project important
