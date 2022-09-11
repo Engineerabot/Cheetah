@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="website" version="4">
+  <OBJECT>
+    <ID name="website" mc="Standard.Package" uid="41d849db-8bf8-44c6-8680-25ac2e1151a7"/>
+    <PID name="Website" mc="Standard.Project" uid="846c2467-54c2-4a5a-85d7-80f22f7e678c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[website]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Car" mc="Standard.Class" uid="fc1e9917-8311-4ebf-9195-521b24e3403b"/>
+        <COMPID name="Fuel System" mc="Standard.Class" uid="3348a2b7-50e0-4de7-b9ed-4be95a1b2681"/>
+        <COMPID name="Ignition System" mc="Standard.Class" uid="83799a42-7454-4bab-b234-c36800c89d7b"/>
+        <COMPID name="Drive Train" mc="Standard.Class" uid="fae98bb0-de41-476c-bd18-dbf15f440caf"/>
+        <COMPID name="Fuel Pump" mc="Standard.Class" uid="f3d94d49-3444-4b18-96d4-995fb244bad7"/>
+        <COMPID name="Fuel Lines" mc="Standard.Class" uid="171e8d32-7da7-40b7-9d18-c5d2b58572d7"/>
+        <COMPID name="Transmission" mc="Standard.Class" uid="143bbafa-fb51-4a0c-9a52-01d6e92c0c4b"/>
+        <COMPID name="Wheels" mc="Standard.Class" uid="a47b1a88-a453-4d56-8c35-06412eab4d8e"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Product Hierarchy" mc="Standard.ClassDiagram" uid="23a89b95-8ada-4ac8-a630-c37842dad98d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
