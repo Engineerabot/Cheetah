@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="3 Components" version="4">
+  <OBJECT>
+    <ID name="3 Components" mc="Standard.Package" uid="3cd8042a-42f1-43b0-96bd-78f6182b09c8"/>
+    <PID name="Elements" mc="Standard.Package" uid="0d704532-259c-4d6c-b0a3-6abd26802794"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[3 Components]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Rib Cage" mc="Standard.Class" uid="76bdc255-bd0f-4189-ae73-bc9e15387e25"/>
+        <COMPID name="Knee Joint" mc="Standard.Class" uid="66904c8a-2c4f-4fda-9f51-cedf308da89f"/>
+        <COMPID name="Shoulder Joint" mc="Standard.Class" uid="ab19b967-7fe4-4058-a6bf-3beb6049910d"/>
+        <COMPID name="Hip Joint" mc="Standard.Class" uid="1f8dbfe1-673e-4cff-8c60-f9a751970f5e"/>
+        <COMPID name="Spine" mc="Standard.Class" uid="2a47cd62-789f-4489-bb68-6c9b42dd6eb1"/>
+        <COMPID name="Torso-Neck Joint" mc="Standard.Class" uid="b41832aa-b8a1-4c6b-b6ec-fe18fc516205"/>
+        <COMPID name="Torso-Tail Joint" mc="Standard.Class" uid="3e6838b7-1520-4324-9e6d-60700f1513a0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

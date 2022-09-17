@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Torso-Foreleg Joint" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Shoulder Joint" version="4">
   <OBJECT>
-    <ID name="Torso-Foreleg Joint" mc="Standard.Class" uid="ab19b967-7fe4-4058-a6bf-3beb6049910d"/>
-    <PID name="3 Components" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
+    <ID name="Shoulder Joint" mc="Standard.Class" uid="ab19b967-7fe4-4058-a6bf-3beb6049910d"/>
+    <PID name="3 Components" mc="Standard.Package" uid="3cd8042a-42f1-43b0-96bd-78f6182b09c8"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Torso-Foreleg Joint]]></ATT>
+      <ATT name="Name"><![CDATA[Shoulder Joint]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

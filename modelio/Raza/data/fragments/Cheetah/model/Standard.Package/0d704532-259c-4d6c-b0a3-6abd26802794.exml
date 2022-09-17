@@ -16,8 +16,9 @@
       <COMP relation="OwnedElement">
         <COMPID name="1 System" mc="Standard.Package" uid="2863ed41-09b4-4ff3-ba38-730df4a3d949"/>
         <COMPID name="2 Subsystems" mc="Standard.Package" uid="be68622e-ed3b-4f47-bc0f-6de95bb78061"/>
-        <COMPID name="3 Components" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
-        <COMPID name="4 Part" mc="Standard.Package" uid="eb2d6d48-c3b2-428c-9290-880ebd184d9f"/>
+        <COMPID name="3 Components" mc="Standard.Package" uid="3cd8042a-42f1-43b0-96bd-78f6182b09c8"/>
+        <COMPID name="4 Subcomponents" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
+        <COMPID name="5 Part" mc="Standard.Package" uid="eb2d6d48-c3b2-428c-9290-880ebd184d9f"/>
         <COMPID name="Chris' Experience" mc="Standard.Class" uid="77d19819-181d-4642-9cc0-aea06d6eebb7"/>
       </COMP>
       <COMP relation="Product">
