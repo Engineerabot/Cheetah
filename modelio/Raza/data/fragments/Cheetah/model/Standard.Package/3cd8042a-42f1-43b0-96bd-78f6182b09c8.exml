@@ -21,6 +21,8 @@
         <COMPID name="Spine" mc="Standard.Class" uid="2a47cd62-789f-4489-bb68-6c9b42dd6eb1"/>
         <COMPID name="Torso-Neck Joint" mc="Standard.Class" uid="b41832aa-b8a1-4c6b-b6ec-fe18fc516205"/>
         <COMPID name="Torso-Tail Joint" mc="Standard.Class" uid="3e6838b7-1520-4324-9e6d-60700f1513a0"/>
+        <COMPID name="Hip" mc="Standard.Class" uid="dee938a7-74fa-4e44-9d9f-a96d2bd2c5a6"/>
+        <COMPID name="Block" mc="Standard.Class" uid="15c2a612-226a-44cd-885a-bf26d56cda96"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rib 11" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Shaft Collar" version="4">
   <OBJECT>
-    <ID name="Rib 11" mc="Standard.Class" uid="0c609b11-84d6-40ac-856e-ab2cdd7a7aa5"/>
+    <ID name="Shaft Collar" mc="Standard.Class" uid="5e82343b-345e-4d14-947f-96294cd5d83f"/>
     <PID name="4 Subcomponents" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Rib 11]]></ATT>
+      <ATT name="Name"><![CDATA[Shaft Collar]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

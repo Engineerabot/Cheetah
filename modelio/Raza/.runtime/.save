@@ -1,6 +1,7 @@
-#Sat Jun 25 08:20:32 MDT 2022
-org.modelio.app.diagram.editor.OpenedDiagrams5='Foreleg Knee Joint Block diagram' {728352f9-a9b8-4eff-a332-3c870f6c4c4f} Standard.StaticDiagram
+#Sat Sep 09 20:32:13 MDT 2023
 org.modelio.app.model.search.ui.SearchHistory1=allocate
+org.modelio.app.diagram.editor.OpenedDiagrams13='Hip Block diagram' {03e4ca0f-0fde-4284-9854-4e635ab78c52} Standard.StaticDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='Foreleg Knee Joint Block diagram' {728352f9-a9b8-4eff-a332-3c870f6c4c4f} Standard.StaticDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams12='Torso-Hind Leg Joint Block diagram' {9aff156a-bbe2-40c3-8cb4-3a70dbff9733} Standard.StaticDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams4='Torso Mechanics Block diagram' {d44583a7-538f-4a7a-a6b1-94d83f752f20} Standard.StaticDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams11='Torso-Foreleg Joint Block diagram' {bf949f27-0494-4f18-a15c-e9be7431559a} Standard.StaticDiagram
@@ -20,5 +21,5 @@ org.modelio.app.diagram.editor.OpenedDiagrams9='Head Mechanics Block diagram' {b
 org.modelio.app.module.propertytab.PersistentProfile\ v3.10.00\ GModule\ @file\:///C\:/Users/jhmei/.modelio/4.1/modules/PersistentProfile_3.10.00/PersistentProfile_3.10.00.jmdac\ runtime\ module_PersistentPropertyPage.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
 org.modelio.app.diagram.editor.OpenedDiagrams8='Model Activity diagram' {386f8b4c-45fa-4561-a20d-1b56b9031fc7} Standard.ActivityDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams7='Foreleg Mechanics Block Diagram' {f5f2f6fe-5992-4e9d-ad79-f6c472eaec68} Standard.StaticDiagram
-org.modelio.app.diagram.editor.OpenedDiagrams6='Tail Mechanics Block diagram' {8c7d3537-0c15-43f4-8c90-486dbb0517fb} Standard.StaticDiagram
 org.modelio.app.model.search.ui.SearchHistory2=composition
+org.modelio.app.diagram.editor.OpenedDiagrams6='Tail Mechanics Block diagram' {8c7d3537-0c15-43f4-8c90-486dbb0517fb} Standard.StaticDiagram

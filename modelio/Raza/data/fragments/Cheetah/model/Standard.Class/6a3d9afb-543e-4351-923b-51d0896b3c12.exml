@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rib 9" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Inner Pelvis Cap" version="4">
   <OBJECT>
-    <ID name="Rib 9" mc="Standard.Class" uid="317f25bc-1891-4f7e-bb53-2065a39a2967"/>
+    <ID name="Inner Pelvis Cap" mc="Standard.Class" uid="6a3d9afb-543e-4351-923b-51d0896b3c12"/>
     <PID name="4 Subcomponents" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Rib 9]]></ATT>
+      <ATT name="Name"><![CDATA[Inner Pelvis Cap]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rib 10" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Bearing" version="4">
   <OBJECT>
-    <ID name="Rib 10" mc="Standard.Class" uid="a07621e6-d01e-4f20-9f70-31af018d7901"/>
-    <PID name="4 Subcomponents" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
+    <ID name="Bearing" mc="Standard.Class" uid="dd34257c-6e94-4a01-9332-4db19295477a"/>
+    <PID name="5 Part" mc="Standard.Package" uid="eb2d6d48-c3b2-428c-9290-880ebd184d9f"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
       <ATT name="IsMain">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Rib 10]]></ATT>
+      <ATT name="Name"><![CDATA[Bearing]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

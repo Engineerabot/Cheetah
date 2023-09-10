@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rib 2" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Upper Left Pelvis" version="4">
   <OBJECT>
-    <ID name="Rib 2" mc="Standard.Class" uid="adcb0de3-eacd-4942-8b80-f8419ba39c57"/>
+    <ID name="Upper Left Pelvis" mc="Standard.Class" uid="b834aadb-092d-47cd-8350-debdb2396376"/>
     <PID name="4 Subcomponents" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Rib 2]]></ATT>
+      <ATT name="Name"><![CDATA[Upper Left Pelvis]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

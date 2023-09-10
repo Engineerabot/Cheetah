@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Rib 6" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Inner Hip Cap" version="4">
   <OBJECT>
-    <ID name="Rib 6" mc="Standard.Class" uid="b9f5a951-2af8-4692-a50d-5b02ed680144"/>
+    <ID name="Inner Hip Cap" mc="Standard.Class" uid="6469b0fd-8bd6-4ea3-9fb6-81706aaf9112"/>
     <PID name="4 Subcomponents" mc="Standard.Package" uid="52cde872-60ed-4c61-a889-f9fae73bea9b"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,7 +11,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Rib 6]]></ATT>
+      <ATT name="Name"><![CDATA[Inner Hip Cap]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

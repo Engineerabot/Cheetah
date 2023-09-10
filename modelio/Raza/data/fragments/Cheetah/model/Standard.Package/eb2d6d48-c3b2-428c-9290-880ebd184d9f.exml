@@ -19,6 +19,10 @@
         <COMPID name="Machine Screw 2" mc="Standard.Class" uid="db1fe4e8-f490-4495-9409-98dbb645754e"/>
         <COMPID name="Washer" mc="Standard.Class" uid="89e855fb-4cbe-46d7-b260-85710785078e"/>
         <COMPID name="Rounded Head Blunt Screw" mc="Standard.Class" uid="ff7b6ccf-3d96-4b74-9796-66d6b9136934"/>
+        <COMPID name="Bearing" mc="Standard.Class" uid="dd34257c-6e94-4a01-9332-4db19295477a"/>
+        <COMPID name="Rotary Damper" mc="Standard.Class" uid="20a38f04-970a-48df-8897-166886f04b8a"/>
+        <COMPID name="Potentiometer" mc="Standard.Class" uid="cfbae3cc-33e6-49ab-99fc-ca01bc1a05b3"/>
+        <COMPID name="DC Motor" mc="Standard.Class" uid="0eb49b7a-fb88-4b75-8255-bb2a74918f58"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
