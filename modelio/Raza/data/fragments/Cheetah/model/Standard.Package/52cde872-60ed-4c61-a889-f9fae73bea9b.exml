@@ -14,7 +14,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="9271K124 Torsion Spring" mc="Standard.Class" uid="af64d012-6c87-43bd-847e-215a9a693dd6"/>
+        <COMPID name="Torsion Spring" mc="Standard.Class" uid="af64d012-6c87-43bd-847e-215a9a693dd6"/>
         <COMPID name="Angle Joint 1" mc="Standard.Class" uid="f553d1bc-1ff1-4d56-80b0-c9ec6b4660ba"/>
         <COMPID name="Angle Joint 2" mc="Standard.Class" uid="df3b865e-3d3d-47e0-99f4-10b09bdd1fcd"/>
         <COMPID name="Angle Joint 3" mc="Standard.Class" uid="6f2dec03-c195-48ac-93b8-d0010795062d"/>
@@ -36,18 +36,17 @@
         <COMPID name="Angle  Joint Rubber Pad" mc="Standard.Class" uid="5e309ec6-365a-423c-95b6-6349000e096d"/>
         <COMPID name="Shoulder-Humerus Joint" mc="Standard.Class" uid="a20b4025-d7f8-4a51-9f15-d6cc54d2ac01"/>
         <COMPID name="Torso-Rotary Joint" mc="Standard.Class" uid="088f448e-2b51-4ab5-bba4-fd622d47d45a"/>
-        <COMPID name="Rib 2" mc="Standard.Class" uid="adcb0de3-eacd-4942-8b80-f8419ba39c57"/>
-        <COMPID name="Rib 3" mc="Standard.Class" uid="d2dee9ab-a0e5-4225-b452-6de89c5815e2"/>
         <COMPID name="Rib 1" mc="Standard.Class" uid="3722cfee-b60a-42f0-836f-1c90aec3aaeb"/>
-        <COMPID name="Rib 4" mc="Standard.Class" uid="f419d7dd-79f9-460d-9a77-7f04f444cdcb"/>
-        <COMPID name="Rib 5" mc="Standard.Class" uid="ba115361-e6fb-4ca9-ae08-91a3d4965bae"/>
-        <COMPID name="Rib 6" mc="Standard.Class" uid="b9f5a951-2af8-4692-a50d-5b02ed680144"/>
-        <COMPID name="Rib 7" mc="Standard.Class" uid="e87de828-aa99-48d5-bb2a-6961753d809d"/>
-        <COMPID name="Rib 8" mc="Standard.Class" uid="afe6bfcf-acf9-4d4e-9f7f-7ad648b263a1"/>
-        <COMPID name="Rib 9" mc="Standard.Class" uid="317f25bc-1891-4f7e-bb53-2065a39a2967"/>
-        <COMPID name="Rib 10" mc="Standard.Class" uid="a07621e6-d01e-4f20-9f70-31af018d7901"/>
-        <COMPID name="Rib 11" mc="Standard.Class" uid="0c609b11-84d6-40ac-856e-ab2cdd7a7aa5"/>
-        <COMPID name="Rib 12" mc="Standard.Class" uid="9d522793-0d24-4310-984b-d0d7ce17b32d"/>
+        <COMPID name="Upper Left Pelvis" mc="Standard.Class" uid="b834aadb-092d-47cd-8350-debdb2396376"/>
+        <COMPID name="Damper Torsion Shaft" mc="Standard.Class" uid="6cd7485e-7cee-4b77-bd7f-9ab73d15f2f2"/>
+        <COMPID name="Inner Pelvis Cap" mc="Standard.Class" uid="6a3d9afb-543e-4351-923b-51d0896b3c12"/>
+        <COMPID name="Outer Hip Joint" mc="Standard.Class" uid="d874b13d-87e0-42c8-976d-99ae101a899b"/>
+        <COMPID name="Hip Cap" mc="Standard.Class" uid="a8c573d9-9ef9-450a-a0eb-15bda8f577dc"/>
+        <COMPID name="Hollow Shaft" mc="Standard.Class" uid="b8bd0424-63d0-4b63-a763-c8afe6f9da6e"/>
+        <COMPID name="Shaft Collar" mc="Standard.Class" uid="5e82343b-345e-4d14-947f-96294cd5d83f"/>
+        <COMPID name="Inner Hip Cap" mc="Standard.Class" uid="6469b0fd-8bd6-4ea3-9fb6-81706aaf9112"/>
+        <COMPID name="Block" mc="Standard.Class" uid="5b93fcf6-ee88-4b84-854f-2248bd5e2a94"/>
+        <COMPID name="Inner Rotary Joint" mc="Standard.Class" uid="10fc2885-80d0-4ae3-8284-b9d6bd1b4131"/>
       </COMP>
       <COMP relation="Descriptor">
         <OBJECT>
